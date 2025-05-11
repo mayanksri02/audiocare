@@ -72,7 +72,7 @@ const Hero = () => {
 const HomePage = () => {
   const handlePredictClick = () => {
     // Redirect to Gradio interface 
-    window.location.href = 'http://localhost:7860';
+    window.location.href = 'https://95fd-2402-e280-220e-219-d861-7ac9-c7d9-9943.ngrok-free.app';
   };
 
   return (
