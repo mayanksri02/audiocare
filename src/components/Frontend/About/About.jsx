@@ -3,7 +3,11 @@ import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
 import utkarsh from "../../../assets/utkarsh.png";
 import vandana from "../../../assets/vandana.png";
 import mayank from "../../../assets/mayank.png";
+<<<<<<< HEAD
+import palak from "../../../assets/palak.png"; // Ensure this file exists
+=======
 import palak from "../../../assets/palak.jpg"; // Ensure this file exists
+>>>>>>> de7471f8635e7d1d463625af00dd9d994ae1098f
 
 const team = [
   {

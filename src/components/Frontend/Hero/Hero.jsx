@@ -2,6 +2,7 @@ import { NavLink, Routes, Route, Navigate } from "react-router-dom";
 import homeLogo from "../../../assets/home.svg";
 import aboutLogo from "../../../assets/about.svg";
 import datasetLogo from "../../../assets/dataset.svg";
+import historyLogo from "../../../assets/history.svg";
 import audiocare from "../../../assets/AudioCare.png";
 import upload from "../../../assets/upload.svg";
 import About from "../About/About"; // adjust path as needed
@@ -24,7 +25,7 @@ const Hero = () => {
             <img src={aboutLogo} className="h-6" alt="About" />
           </NavLink>
           <NavLink to="/history" className={({ isActive }) => `flex items-center ${isActive ? "text-blue-600" : "text-gray-500"}`}>
-            <img src={aboutLogo} className="h-6" alt="History" />
+            <img src={historyLogo} className="h-6" alt="History" />
           </NavLink>
         </div>
       </div>
@@ -39,7 +40,7 @@ const Hero = () => {
             <img src={homeLogo} />
             <h3 className="text-2xl">Home</h3>
           </NavLink>
-          <a href="/dataset.pdf" download className="flex items-center gap-3 text-gray-500 hover:text-blue-600">
+          <a href="/dataset.zip" download className="flex items-center gap-3 text-gray-500 hover:text-blue-600">
             <img src={datasetLogo} />
             <h3 className="text-2xl">Dataset</h3>
           </a>
@@ -48,7 +49,7 @@ const Hero = () => {
             <h3 className="text-2xl">About</h3>
           </NavLink>
           <NavLink to="/history" className={({ isActive }) => `flex items-center gap-3 ${isActive ? "text-blue-600" : "text-gray-500"}`}>
-            <img src={aboutLogo} />
+            <img src={historyLogo} />
             <h3 className="text-2xl">History</h3>
           </NavLink>
         </div>
@@ -80,7 +81,10 @@ const HomePage = () => {
       <h1 className="text-3xl md:text-4xl font-bold text-blue-600 mb-6 md:mb-10">
         Welcome to AudioCare !
       </h1>
-      <div className="my-[50px] bg-white p-4 md:p-6 w-full max-w-[600px] h-[250px] rounded-lg shadow-md relative text-left">
+      <h7 className="text-xl md:text-xl font-bold text-[#808093] mb-6 md:mb-10">
+        AudioCare - We listen with Care
+      </h7>
+      {/* <div className="my-[50px] bg-white p-4 md:p-6 w-full max-w-[600px] h-[250px] rounded-lg shadow-md relative text-left">
         <textarea
           placeholder="Type the conversation .............."
           className="w-full h-40 p-4 border border-gray-300 rounded-md resize-none focus:outline-none"
@@ -96,12 +100,12 @@ const HomePage = () => {
           </label>
           <span className="text-xl text-gray-300">...</span>
         </div>
-      </div>
+      </div> */}
       <button
         onClick={handlePredictClick}
         className="mt-6 px-6 py-2 bg-blue-600 text-white rounded-md hover:bg-[#6b4fcc]"
       >
-        Predict
+        Solution
       </button>
     </>
   );
