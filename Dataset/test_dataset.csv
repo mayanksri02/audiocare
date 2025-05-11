@@ -1,0 +1,121 @@
+call_id,sender_id,receiver_id,audio_link,transcript,duration_sec,speech_rate_wpm,emergency,urgency_level,sentiment,keywords,gender,timezone,location
+MED_0095,PAT_6982,DOC_416,medical_audio/conversation_0095.wav,"Patient (Male): I'm starting to feel really dizziness. Something doesn’t feel right.
+Doctor: Administer oxygen! Prepare everything.
+Nurse: Understood. Executing now.",16.276,194,1,1,anxious,"dizziness, Administer oxygen",Male,PST,General Ward
+MED_0015,PAT_7504,DOC_178,medical_audio/conversation_0015.wav,"Patient (Male): Help! I can’t breathe! It’s shortness of breath! Please do something!
+Doctor: Call the crash team! Prepare everything.
+Nurse: Understood. Executing now.",17.777,151,1,2,panicked,"shortness of breath, Call the crash team",Male,CST,Ambulance
+MED_0030,PAT_3935,DOC_501,medical_audio/conversation_0030.wav,"Patient (Female): I'm starting to feel really shortness of breath. Something doesn’t feel right.
+Doctor: Call the crash team! Prepare everything.
+Nurse: Understood. Executing now.",16.875,206,1,1,anxious,"shortness of breath, Call the crash team",Female,PST,ER
+MED_0158,PAT_5029,DOC_547,medical_audio/conversation_0158.wav,"Patient (Female): I'm starting to feel really nausea. Something doesn’t feel right.
+Doctor: Call the crash team! Prepare everything.
+Nurse: Understood. Executing now.",16.22,207,1,1,anxious,"nausea, Call the crash team",Female,PST,ICU
+MED_0128,PAT_1624,DOC_810,medical_audio/conversation_0128.wav,"Patient (Female): I'm starting to feel really chest pain. Something doesn’t feel right.
+Doctor: Administer oxygen! Prepare everything.
+Nurse: Understood. Executing now.",16.6,160,1,1,anxious,"chest pain, Administer oxygen",Female,EST,General Ward
+MED_0115,PAT_6754,DOC_903,medical_audio/conversation_0115.wav,"Patient (Female): I've been feeling a bit of nausea, but nothing too serious.
+Doctor: Call the crash team! Prepare everything.
+Nurse: Understood. Executing now.",15.41,207,0,0,calm,"nausea, Call the crash team",Female,CST,General Ward
+MED_0069,PAT_2860,DOC_229,medical_audio/conversation_0069.wav,"Patient (Female): I'm starting to feel really shortness of breath. Something doesn’t feel right.
+Doctor: Start IV line! Prepare everything.
+Nurse: Understood. Executing now.",16.701,163,1,1,anxious,"shortness of breath, Start IV line",Female,EST,ER
+MED_0170,PAT_8598,DOC_343,medical_audio/conversation_0170.wav,"Patient (Female): Help! I can’t breathe! It’s chest pain! Please do something!
+Doctor: Check vitals! Prepare everything.
+Nurse: Understood. Executing now.",17.87,179,0,2,panicked,"chest pain, Check vitals",Female,EST,ER
+MED_0174,PAT_6996,DOC_710,medical_audio/conversation_0174.wav,"Patient (Male): I'm starting to feel really shortness of breath. Something doesn’t feel right.
+Doctor: Administer oxygen! Prepare everything.
+Nurse: Understood. Executing now.",16.746,188,1,1,anxious,"shortness of breath, Administer oxygen",Male,CST,Ambulance
+MED_0045,PAT_5188,DOC_387,medical_audio/conversation_0045.wav,"Patient (Male): I'm starting to feel really palpitations. Something doesn’t feel right.
+Doctor: Call the crash team! Prepare everything.
+Nurse: Understood. Executing now.",16.197,150,0,1,anxious,"palpitations, Call the crash team",Male,EST,Ambulance
+MED_0066,PAT_2294,DOC_982,medical_audio/conversation_0066.wav,"Patient (Male): I'm starting to feel really severe bleeding. Something doesn’t feel right.
+Doctor: Check vitals! Prepare everything.
+Nurse: Understood. Executing now.",16.385,170,1,1,anxious,"severe bleeding, Check vitals",Male,EST,ICU
+MED_0182,PAT_3455,DOC_637,medical_audio/conversation_0182.wav,"Patient (Female): Help! I can’t breathe! It’s palpitations! Please do something!
+Doctor: Check vitals! Prepare everything.
+Nurse: Understood. Executing now.",18.561,200,0,2,panicked,"palpitations, Check vitals",Female,CST,ER
+MED_0165,PAT_7283,DOC_994,medical_audio/conversation_0165.wav,"Patient (Male): Help! I can’t breathe! It’s loss of consciousness! Please do something!
+Doctor: Administer oxygen! Prepare everything.
+Nurse: Understood. Executing now.",17.981,213,1,2,panicked,"loss of consciousness, Administer oxygen",Male,PST,ER
+MED_0078,PAT_9049,DOC_989,medical_audio/conversation_0078.wav,"Patient (Male): I'm starting to feel really palpitations. Something doesn’t feel right.
+Doctor: Call the crash team! Prepare everything.
+Nurse: Understood. Executing now.",16.622,151,1,1,anxious,"palpitations, Call the crash team",Male,CST,General Ward
+MED_0186,PAT_8974,DOC_852,medical_audio/conversation_0186.wav,"Patient (Female): I've been feeling a bit of nausea, but nothing too serious.
+Doctor: Alert senior doctor! Prepare everything.
+Nurse: Understood. Executing now.",15.514,180,0,0,calm,"nausea, Alert senior doctor",Female,PST,General Ward
+MED_0177,PAT_4307,DOC_353,medical_audio/conversation_0177.wav,"Patient (Male): Help! I can’t breathe! It’s chest pain! Please do something!
+Doctor: Call the crash team! Prepare everything.
+Nurse: Understood. Executing now.",17.95,207,1,2,panicked,"chest pain, Call the crash team",Male,PST,General Ward
+MED_0056,PAT_1111,DOC_571,medical_audio/conversation_0056.wav,"Patient (Female): Help! I can’t breathe! It’s nausea! Please do something!
+Doctor: Administer oxygen! Prepare everything.
+Nurse: Understood. Executing now.",17.736,173,0,2,panicked,"nausea, Administer oxygen",Female,CST,ICU
+MED_0152,PAT_1757,DOC_648,medical_audio/conversation_0152.wav,"Patient (Male): I've been feeling a bit of shortness of breath, but nothing too serious.
+Doctor: Call the crash team! Prepare everything.
+Nurse: Understood. Executing now.",15.417,153,0,0,calm,"shortness of breath, Call the crash team",Male,EST,ER
+MED_0082,PAT_8400,DOC_698,medical_audio/conversation_0082.wav,"Patient (Male): Help! I can’t breathe! It’s dizziness! Please do something!
+Doctor: Start IV line! Prepare everything.
+Nurse: Understood. Executing now.",17.231,161,1,2,panicked,"dizziness, Start IV line",Male,EST,Ambulance
+MED_0068,PAT_4729,DOC_836,medical_audio/conversation_0068.wav,"Patient (Male): I've been feeling a bit of dizziness, but nothing too serious.
+Doctor: Call the crash team! Prepare everything.
+Nurse: Understood. Executing now.",15.357,155,0,0,calm,"dizziness, Call the crash team",Male,CST,ICU
+MED_0124,PAT_5919,DOC_616,medical_audio/conversation_0124.wav,"Patient (Female): I've been feeling a bit of chest pain, but nothing too serious.
+Doctor: Alert senior doctor! Prepare everything.
+Nurse: Understood. Executing now.",15.789,161,0,0,calm,"chest pain, Alert senior doctor",Female,PST,ICU
+MED_0016,PAT_9628,DOC_816,medical_audio/conversation_0016.wav,"Patient (Female): I'm starting to feel really palpitations. Something doesn’t feel right.
+Doctor: Alert senior doctor! Prepare everything.
+Nurse: Understood. Executing now.",17.015,200,0,1,anxious,"palpitations, Alert senior doctor",Female,PST,ICU
+MED_0148,PAT_1775,DOC_880,medical_audio/conversation_0148.wav,"Patient (Male): I'm starting to feel really severe bleeding. Something doesn’t feel right.
+Doctor: Alert senior doctor! Prepare everything.
+Nurse: Understood. Executing now.",17.21,156,0,1,anxious,"severe bleeding, Alert senior doctor",Male,CST,Ambulance
+MED_0093,PAT_4611,DOC_213,medical_audio/conversation_0093.wav,"Patient (Female): I've been feeling a bit of dizziness, but nothing too serious.
+Doctor: Alert senior doctor! Prepare everything.
+Nurse: Understood. Executing now.",15.214,219,0,0,calm,"dizziness, Alert senior doctor",Female,EST,General Ward
+MED_0065,PAT_5526,DOC_449,medical_audio/conversation_0065.wav,"Patient (Female): I've been feeling a bit of shortness of breath, but nothing too serious.
+Doctor: Prepare ECG! Prepare everything.
+Nurse: Understood. Executing now.",15.94,217,0,0,calm,"shortness of breath, Prepare ECG",Female,CST,ER
+MED_0060,PAT_1006,DOC_614,medical_audio/conversation_0060.wav,"Patient (Male): Help! I can’t breathe! It’s shortness of breath! Please do something!
+Doctor: Prepare ECG! Prepare everything.
+Nurse: Understood. Executing now.",17.708,156,0,2,panicked,"shortness of breath, Prepare ECG",Male,CST,ICU
+MED_0084,PAT_4340,DOC_332,medical_audio/conversation_0084.wav,"Patient (Female): I've been feeling a bit of chest pain, but nothing too serious.
+Doctor: Administer oxygen! Prepare everything.
+Nurse: Understood. Executing now.",16.166,191,0,0,calm,"chest pain, Administer oxygen",Female,CST,Ambulance
+MED_0067,PAT_9535,DOC_726,medical_audio/conversation_0067.wav,"Patient (Male): I'm starting to feel really severe bleeding. Something doesn’t feel right.
+Doctor: Check vitals! Prepare everything.
+Nurse: Understood. Executing now.",16.811,195,1,1,anxious,"severe bleeding, Check vitals",Male,PST,ICU
+MED_0125,PAT_7945,DOC_144,medical_audio/conversation_0125.wav,"Patient (Female): Help! I can’t breathe! It’s palpitations! Please do something!
+Doctor: Administer oxygen! Prepare everything.
+Nurse: Understood. Executing now.",19.126,199,0,2,panicked,"palpitations, Administer oxygen",Female,EST,ICU
+MED_0132,PAT_7235,DOC_538,medical_audio/conversation_0132.wav,"Patient (Female): I've been feeling a bit of dizziness, but nothing too serious.
+Doctor: Check vitals! Prepare everything.
+Nurse: Understood. Executing now.",14.855,180,0,0,calm,"dizziness, Check vitals",Female,PST,ICU
+MED_0009,PAT_1839,DOC_302,medical_audio/conversation_0009.wav,"Patient (Female): I've been feeling a bit of shortness of breath, but nothing too serious.
+Doctor: Administer oxygen! Prepare everything.
+Nurse: Understood. Executing now.",16.07,145,0,0,calm,"shortness of breath, Administer oxygen",Female,EST,General Ward
+MED_0018,PAT_1629,DOC_804,medical_audio/conversation_0018.wav,"Patient (Male): I'm starting to feel really shortness of breath. Something doesn’t feel right.
+Doctor: Administer oxygen! Prepare everything.
+Nurse: Understood. Executing now.",17.265,143,1,1,anxious,"shortness of breath, Administer oxygen",Male,CST,General Ward
+MED_0055,PAT_5339,DOC_110,medical_audio/conversation_0055.wav,"Patient (Male): I'm starting to feel really palpitations. Something doesn’t feel right.
+Doctor: Start IV line! Prepare everything.
+Nurse: Understood. Executing now.",17.041,190,1,1,anxious,"palpitations, Start IV line",Male,CST,ICU
+MED_0075,PAT_3167,DOC_530,medical_audio/conversation_0075.wav,"Patient (Male): I'm starting to feel really dizziness. Something doesn’t feel right.
+Doctor: Alert senior doctor! Prepare everything.
+Nurse: Understood. Executing now.",17.009,206,1,1,anxious,"dizziness, Alert senior doctor",Male,PST,Ambulance
+MED_0150,PAT_5995,DOC_425,medical_audio/conversation_0150.wav,"Patient (Female): Help! I can’t breathe! It’s palpitations! Please do something!
+Doctor: Administer oxygen! Prepare everything.
+Nurse: Understood. Executing now.",18.375,174,1,2,panicked,"palpitations, Administer oxygen",Female,CST,ICU
+MED_0104,PAT_7617,DOC_296,medical_audio/conversation_0104.wav,"Patient (Female): Help! I can’t breathe! It’s shortness of breath! Please do something!
+Doctor: Start IV line! Prepare everything.
+Nurse: Understood. Executing now.",17.796,164,1,2,panicked,"shortness of breath, Start IV line",Female,CST,ER
+MED_0135,PAT_9559,DOC_765,medical_audio/conversation_0135.wav,"Patient (Female): I'm starting to feel really palpitations. Something doesn’t feel right.
+Doctor: Start IV line! Prepare everything.
+Nurse: Understood. Executing now.",16.705,151,0,1,anxious,"palpitations, Start IV line",Female,PST,General Ward
+MED_0137,PAT_6702,DOC_284,medical_audio/conversation_0137.wav,"Patient (Female): Help! I can’t breathe! It’s loss of consciousness! Please do something!
+Doctor: Alert senior doctor! Prepare everything.
+Nurse: Understood. Executing now.",18.654,186,1,2,panicked,"loss of consciousness, Alert senior doctor",Female,CST,ER
+MED_0164,PAT_8407,DOC_550,medical_audio/conversation_0164.wav,"Patient (Male): I've been feeling a bit of shortness of breath, but nothing too serious.
+Doctor: Prepare ECG! Prepare everything.
+Nurse: Understood. Executing now.",15.855,199,0,0,calm,"shortness of breath, Prepare ECG",Male,PST,General Ward
+MED_0076,PAT_9469,DOC_185,medical_audio/conversation_0076.wav,"Patient (Female): I've been feeling a bit of severe bleeding, but nothing too serious.
+Doctor: Alert senior doctor! Prepare everything.
+Nurse: Understood. Executing now.",16.025,199,0,0,calm,"severe bleeding, Alert senior doctor",Female,PST,ER
