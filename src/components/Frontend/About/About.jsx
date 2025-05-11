@@ -3,7 +3,7 @@ import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
 import utkarsh from "../../../assets/utkarsh.png";
 import vandana from "../../../assets/vandana.png";
 import mayank from "../../../assets/mayank.png";
-import palak from "../../../assets/vandana.png"; // Ensure this file exists
+import palak from "../../../assets/palak.jpg"; // Ensure this file exists
 
 const team = [
   {
@@ -26,9 +26,9 @@ const team = [
     name: "Mayank Srivastava",
     role: "Mern Developer",
     image: mayank,
-    github: "https://github.com/mayanksriv02",
-    linkedin: "https://linkedin.com/in/mayanksrivastava",
-    email: "mailto:mayanksrivastava@example.com",
+    github: "https://gitHub.com/mayanksri02",
+    linkedin: "https://www.linkedin.com/in/mayank-srivastava-2b1067247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    email: "mailto:srimayank2002@gmail.com",
   },
   {
     name: "Palak Gupta",
