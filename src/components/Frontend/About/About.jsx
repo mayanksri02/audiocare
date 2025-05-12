@@ -14,7 +14,7 @@ const team = [
     role: "UI/UX Designer",
     image: utkarsh,
     github: "https://github.com/Utkarsh-1541027",
-    linkedin: "https://www.linkedin.com/in/utkarsh-sharma-14ab86219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
+    linkedin: "https://www.linkedin.com/in/utkarsh-sharma-14ab86219/",
     email: "mailto:utkarshsharma1306@gmail.com",
   },
   {
@@ -29,8 +29,8 @@ const team = [
     name: "Mayank Srivastava",
     role: "Mern Developer",
     image: mayank,
-    github: "https://gitHub.com/mayanksri02",
-    linkedin: "https://www.linkedin.com/in/mayank-srivastava-2b1067247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/mayanksri02",
+    linkedin: "https://www.linkedin.com/in/mayank-srivastava-2b1067247/",
     email: "mailto:srimayank2002@gmail.com",
   },
   {
@@ -38,10 +38,11 @@ const team = [
     role: "Mern Developer",
     image: palak,
     github: "https://github.com/palakgupta2345",
-    linkedin: "https://linkedin.com/in/palakgupta",
+    linkedin: "https://www.linkedin.com/in/palakgupta/",
     email: "mailto:palakgupta0421@gmail.com",
   },
 ];
+
 
 const About = () => {
   return (
