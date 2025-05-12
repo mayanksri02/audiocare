@@ -7,7 +7,7 @@ Figma File: https://www.figma.com/design/5yIScvSQIH9Z27kSm3FW1y/Untitled?node-id
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-The main modelling is done in Tech-Troopers-AudioCare.ipynb file.
+The main modelling is done in <b> Tech-Troopers-AudioCare.ipynb  </b> file.
 
 Currently, two official plugins are available:
 
