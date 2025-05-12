@@ -3,7 +3,9 @@ import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
 import utkarsh from "../../../assets/utkarsh.png";
 import vandana from "../../../assets/vandana.png";
 import mayank from "../../../assets/mayank.png";
-import palak from "../../../assets/palak.png";  // Ensure this file exists
+
+import palak from "../../../assets/palak.png"; // Ensure this file exists
+
 
 
 const team = [
