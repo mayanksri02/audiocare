@@ -9,6 +9,11 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 The main modelling is done in <b> Tech-Troopers-AudioCare.ipynb  </b> file.
 
+![image](https://github.com/user-attachments/assets/2f14200f-8a06-4a1b-b1fa-475a0a0e1b11)
+![image](https://github.com/user-attachments/assets/0bb966df-6509-4c01-95a7-fc975175dbcd)
+![image](https://github.com/user-attachments/assets/3577be56-1757-49a8-9eaa-03082be5760b)
+
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
@@ -17,3 +22,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+
