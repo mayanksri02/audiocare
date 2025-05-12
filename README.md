@@ -9,7 +9,9 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 The main modelling is done in <b> Tech-Troopers-AudioCare.ipynb  </b> file.
 
-![image](https://github.com/user-attachments/assets/2f14200f-8a06-4a1b-b1fa-475a0a0e1b11)
+
+![image](https://github.com/user-attachments/assets/fbbc772a-49f8-4980-abe1-65c765d0cc82)
+![image](https://github.com/user-attachments/assets/e0e327d7-7017-4195-a099-9568616ec57a)
 ![image](https://github.com/user-attachments/assets/0bb966df-6509-4c01-95a7-fc975175dbcd)
 ![image](https://github.com/user-attachments/assets/3577be56-1757-49a8-9eaa-03082be5760b)
 
